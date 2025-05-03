@@ -7,10 +7,10 @@ from datetime import datetime
 fake = Faker()
 
 # Connect to SQL Server
-server = 'tcp:sqlserverind.database.windows.net,1433'  # or 'localhost\\SQLEXPRESS' for local
-database = 'weather'
-username = 'oumnam'
-password = 'Rajan@321'
+server = 'tcp:sqlserver.database.windows.net,0000'  # or 'localhost\\SQLEXPRESS' for local
+database = '****'
+username = '***'
+password = '****'
 
 # DB Connection
 conn = pyodbc.connect(
