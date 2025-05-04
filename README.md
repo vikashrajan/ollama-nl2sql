@@ -52,3 +52,7 @@ Create Python Script nl2sql.py
 Run python .\WeatherRandomdataGenerator.py to insert the data in sql table.
  ![image](https://github.com/user-attachments/assets/94b96fe8-999d-4aa5-bc1c-41afed8070bc)
 
+Ask the Questions "How many records available in table weather" As per the below:
+![image](https://github.com/user-attachments/assets/545eae4b-058f-450a-9e31-13081c054a37)
+
+
